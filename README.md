@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SnorW
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
